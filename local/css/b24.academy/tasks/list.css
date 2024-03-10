@@ -1,0 +1,6 @@
+.tasks-interface-filter-btn-add #tasks-buttonAdd,
+.tasks-interface-filter-btn-add #tasks-popupMenuAdd {
+    background-color: #ff0000;
+    border-color: #ff0000;
+    color: #ffffff;
+}
